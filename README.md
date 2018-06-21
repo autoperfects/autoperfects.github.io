@@ -1,2 +1,2 @@
 # autoperfects.github.io
-blog
+blog.
